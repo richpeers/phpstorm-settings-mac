@@ -4,6 +4,9 @@
       <webServer id="045ec10f-6bd8-45f6-a071-873813267b12" name="laravel" url="http://laravel.code">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="6b0989eb-897d-4e73-8b19-658fa3fdb638" name="parentapps" url="http://parentapps.code">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
