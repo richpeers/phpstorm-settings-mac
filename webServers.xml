@@ -7,6 +7,9 @@
       <webServer id="6b0989eb-897d-4e73-8b19-658fa3fdb638" name="parentapps" url="http://parentapps.code">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="da851766-d9cc-4b4e-a8ef-1993a598dbe2" name="dataday" url="http://dataday.code">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
